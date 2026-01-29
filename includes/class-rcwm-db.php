@@ -1,3 +1,4 @@
+// Handles custom database operations for RCWM plugin
 <?php
 
 if ( ! defined( 'ABSPATH' ) ) {
