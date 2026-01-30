@@ -3,6 +3,7 @@
 if ( ! defined( 'ABSPATH' ) ) {
     exit;
 }
+// REST API endpoints for Editorial Content dashboard
 
 class RCWM_REST {
 

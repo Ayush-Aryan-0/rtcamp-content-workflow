@@ -3,6 +3,7 @@
 if ( ! defined( 'ABSPATH' ) ) {
     exit;
 }
+// Admin dashboard UI and asset management
 
 class RCWM_Admin {
 
